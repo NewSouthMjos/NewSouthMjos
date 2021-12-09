@@ -1,5 +1,5 @@
 ### Mishkin Evgeny, Samara, Russia ###
-## Stack: ##
+## Main Stack: ##
 + Django
 + Python
 <!---
