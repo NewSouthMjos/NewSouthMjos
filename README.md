@@ -1,4 +1,4 @@
-### Mishkin Evgeny, Samara, Russia ###
+### Mishkin Evgeny, Cyprus, Limassole ###
 ## Main Stack: ##
 + Django
 + Python
