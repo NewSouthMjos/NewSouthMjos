@@ -1,4 +1,4 @@
-### Mishkin Evgeny, Cyprus, Limassole ###
+### Mishkin Evgeny, Cyprus, Limassol ###
 ## Main Stack: ##
 + Django
 + Python
